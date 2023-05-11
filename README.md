@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @yealet (dylan)
-- 👀 I’m interested in development, i've really dabbled in modeling, and ui, but i do mostly coding!
-- 🌱 I’m currently learning HTML & CSS, continuing my python courses!
-- 📫 You can find all my links at my LinkTree (https://linktr.ee/yealet)
-
-<!---
-yealetFNG is ✨ special ✨
---->
+- 👋 Hi, I’m Dylan or, @yealet on most platforms.
+- 👀 I’m very interested in becoming a programmer later in life as a career as I've been messing with programming since I was a kid.
+- 🌱 I’m currently learning HTML & CSS and partially Python in the background, I've worked with LUA since 2017.
+- 📫 You can email me at my public email here --> yealetfng@gmail.com (I don't check it too often so expect a late reply or reach out through my socials)
+- 🔗 You can find most of my socials here -- > https://linktr.ee/yealet
